@@ -84,34 +84,41 @@ https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Re
 
 ### Scores by School Spending
 - From the formatted summary chart, it looks like replacing the Thomas High School 9th grade data did not change the summary by school spending did not change.
--
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary_Formatted.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary_Formatted.png"/></p>
 
--Looking at the unformatted data, we see that 
+<p align="center">Before<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary_Formatted.png"/>After<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary_Formatted.png"/></p>
 
-<p align="center"><img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary.png"/></p>
+-Looking at the unformatted data, we see that in the $630 - 644 range, we can see slight changes less than one-tenth of a point or percentage for all of the values of the 5 number school report.
 
+<p align="center">Before<img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary.png"/>After<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary.png"/></p>
 
 ### Scores by School Size
+- From the formatted summary chart, it looks like replacing the Thomas High School 9th grade data did not change the summary by school size did not change.
 
-<p align="center"><img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary_Formatted.png"/><img src="
+<p align="center">Before<img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary_Formatted.png"/>After<img src="
 https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary_Formatted.png"/></p>
+
+-Looking at the unformatted data, we see that in the medium range, we can see slight changes less than one-tenth of a point or percentage for all of the values of the 5 number school report.
 
 <p align="center"><img src="
 https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary.png"/><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary.png"/></p>
 
 
 ### Scores by School Type
+- From the formatted summary chart, it looks like replacing the Thomas High School 9th grade data did not change the summary by school type did not change.
+- 
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary_Formatted.png"/><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary_Formatted.png"/></p>
 
-
-
+-Looking at the unformatted data, we see that in charters, we can see slight changes less than one-tenth of a point or percentage for all of the values of the 5 number school report.
 
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary.png"/><img src="
 https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary.png"/>&nbsp;</p>
 
+### Challenges
+- The most difficult part of this challenge was only seeing the formatted summaries at first. Because the values did not change, I thought that there was an issue with the code. I went back and spent some time trying to debug the code. Then, when I printed the unformatted summaries, I realized that the changes were so small that the rounding obscured these minor changes.
 
 ## Summary
-- In summary, after removing the 
+- In summary, after removing the Thomas High School grade 9 data, 4 changes were discovered in the summaries.
+ *
+- However, none of these changes made any significant changes to the summaries.
