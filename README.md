@@ -42,97 +42,76 @@ Analysis was performed on data to determine:
 
 ## Results
 ### District Summary
+- Looking at the District Summary before and after taking the Thomas High School 9th grade data out:
+ * The average math score for the district went up one-tenth of a point, causing the percent of students who passed the math test to increase by two-tenths of a percentage.
+ * The average reading score did not change enough to show a change to the nearest tenth. However, we do see that it changed slightly since, the percent of students who passed the reading test increased by one-tenth of a percentage.
+ * These changes caused the percent of students who passed both tests to increase by three-tenths of a percentage.
 
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_District_Summary.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Distric_Summary.png"/></p>
+<p align="center">Before<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Distric_Summary.png"/>After<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_District_Summary.png"/></p>
 
 ### School Summary
+- The school summary did not change, except for the values for Thomas High School, since this information is broken down by school. Therefore, the changes to the Thomas High School data does not effect this summary.
+- At first, it seemed that the percentage values for Thomas High School changed drastically as shown below. However, this was before the values were adjusted to divide by the number student in only the 10th, 11th, and 12th grade instead of the total number of students in the school. 
 
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Schools_Summary.png" width="474" height="408"/>&nbsp;&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Schools_Summary.png" width="474" height="408"/></p>
 
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Schools_Summary.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Schools_Summary.png"/></p>
+- After calculating the values for Thomas High School based only on the number of 10th, 11th, and 12th graders, the values did not change much.
+ * The average math score increased by less than a 10th of a point and the percentage of students who passed the math test increased by less than one-tenth of a percent
+ * The average reading score increased by less than a 10th of a point and the percentage of students who passed the reading test increased by less than two-tenths of a percent.
+ * The percentage of students who passed both tests increased by slightly over three-tenths of a percent.
+
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Schools_Summary.png" width="474" height="408"/>&nbsp;&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Corrected_Schools_Summary.png" width="474" height="408"/></p>
 
 ### Thomas High School Performance
+- The ranking of the schools was determined by the percentage of students who passed both tests.
+- Before removing the 9th grade data, Thomas High School was neither in the top or bottom 5 schools.
+- After removing the 9th grade data, Thomas High School is now in the top 5 schools.
 
-###
+<p align="center">Before - Top 5<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Top_5.png"/>Before - Bottom 5<img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Top_5.png"/>After - Top 5<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Bottom_5.png"/>After - Bottom 5<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Bottom_5.png"/></p>
 
+### Math and Reading Score Summaries
+- The Math and Reading Scores did not change since the data was broken down by school and grade.
+- The only difference is that the values for Thomas High School 9th grade are now nan.
 
+<p align="center">Math</p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Math_by_Grade.png" width="246" height="340"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Math_by_Grade.png" width="246" height="340"/></p>
 
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Top_5.png"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Top_5.png"/></p>
+<p align="center">Reading</p>
+<p align="center"><img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Reading_by_Grade.png" width="246" height="340"/><img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Reading_by_Grade.png" width="246" height="340"/></p>
 
+### Scores by School Spending
+- From the formatted summary chart, it looks like replacing the Thomas High School 9th grade data did not change the summary by school spending did not change.
+-
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary_Formatted.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary_Formatted.png"/></p>
 
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Bottom_5.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Bottom_5.png"/></p>
-
-
-
-
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Math_by_Grade.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Math_by_Grade.png"/></p>
-
+-Looking at the unformatted data, we see that 
 
 <p align="center"><img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Reading_by_Grade.png"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Reading_by_Grade.png"/></p>
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary.png"/></p>
 
 
-
-
-
-
-
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary_Formatted.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary_Formatted.png"/></p>
+### Scores by School Size
 
 <p align="center"><img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary_Formatted.png"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary_Formatted.png"/></p>
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary_Formatted.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary_Formatted.png"/></p>
-
-
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary.png"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary.png"/></p>
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary.png"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary.png"/></p>
-
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary_Formatted.png"/><img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary_Formatted.png"/></p>
 
 <p align="center"><img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary.png"/></p>
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary.png"/><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary.png"/></p>
+
+
+### Scores by School Type
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary_Formatted.png"/><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary_Formatted.png"/></p>
 
 
 
 
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary.png"/><img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary.png"/>&nbsp;</p>
 
 
-
-
-
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-2-Stock-Analysis/blob/main/Resources/Runtime_Before_Refactoring_2017_.png" width="371" height="127"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-2-Stock-Analysis/blob/main/Resources/Runtime_Before_Refactoring_2018.png" width="371" height="127"/></p>
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Corrected_Schools_Summary.png" width="740" height="360"/></p>
-
-- **Note:** If the candidate percentages are totaled, it only equates to 99.9% of the votes. This is not an error and is not an issue for concern. It is a product of rounding for the output to look cleaner. If the rounding were taken off, the percentages would total to exactly 100%.
-
-## Election-Audit Summary
-- In summary, this Python code provided accurate information about this U.S. Congressional election for a precinct in Colorado. Through a few easy changes the code can be changed to work for any election.
-- The easiest way to alter the code to audit a different election is to make sure that csv file containing all the votes is set up in 3 columns with ballot id in the first column, county in the second column, and candidate in the third column. Then the file path just needs to change to read this file.
-- Another way to alter the code to audit a different election if the csv file is not set up in the same format, is change which columns the code picks up for the county and candidate.
-  * On line 48, change "candidate_name = row[2]" to "candidate_name = row[column index of the candidates]".
-  * On line 51, change "county_name = row[1]" to "county_name = row[column index of the candidates]".
-- A third way to alter the code to audit a national election is to do a find and replace and change all instances of county to state.
+## Summary
+- In summary, after removing the 
