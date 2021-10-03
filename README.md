@@ -120,5 +120,6 @@ https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Re
 
 ## Summary
 - In summary, after removing the Thomas High School grade 9 data, 4 changes were discovered in the summaries.
- *
+  * The largest change was that Thomas High School moved up to now be in the top 5 schools based on the percent of students who passed both tests.
+  * There was a slight increase 
 - However, none of these changes made any significant changes to the summaries.
