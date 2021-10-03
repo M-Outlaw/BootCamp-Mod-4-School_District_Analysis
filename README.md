@@ -47,7 +47,7 @@ Analysis was performed on data to determine:
  * The average reading score did not change enough to show a change to the nearest tenth. However, we do see that it changed slightly since, the percent of students who passed the reading test increased by one-tenth of a percentage.
  * These changes caused the percent of students who passed both tests to increase by three-tenths of a percentage.
 
-<p align="center">Before<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Distric_Summary.png"/>After<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_District_Summary.png"/></p>
+<p align="center">Before<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_District_Summary.png"/>After<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_District_Summary.png"/></p>
 
 ### School Summary
 - The school summary did not change, except for the values for Thomas High School, since this information is broken down by school. Therefore, the changes to the Thomas High School data does not effect this summary.
@@ -121,5 +121,5 @@ https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Re
 ## Summary
 - In summary, after removing the Thomas High School grade 9 data, 4 changes were discovered in the summaries.
   * The largest change was that Thomas High School moved up to now be in the top 5 schools based on the percent of students who passed both tests.
-  * There was a slight increase 
+  * There was a slight decrease 
 - However, none of these changes made any significant changes to the summaries.
