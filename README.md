@@ -44,12 +44,12 @@ Analysis was performed on data to determine:
 ### District Summary
 
 
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_District_Summary.png" width="371" height="127"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Distric_Summary.png" width="371" height="127"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_District_Summary.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Distric_Summary.png"/></p>
 
 ### School Summary
 
 
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Schools_Summary.png" width="371" height="127"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Schools_Summary.png" width="371" height="127"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Schools_Summary.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Schools_Summary.png"/></p>
 
 ### Thomas High School Performance
 
@@ -57,26 +57,13 @@ Analysis was performed on data to determine:
 
 
 
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Top_5.png" width="371" height="127"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Top_5.png" width="371" height="127"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Top_5.png"/>&nbsp;<img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Top_5.png"/></p>
 
 
 
 
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Bottom_5.png" width="371" height="127"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Bottom_5.png" width="371" height="127"/></p>
-
-
-
-
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Math_by_Grade.png" width="371" height="127"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Math_by_Grade.png" width="371" height="127"/></p>
-
-
-<p align="center"><img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Reading_by_Grade.png" width="371" height="127"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Reading_by_Grade.png" width="371" height="127"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Bottom_5.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Bottom_5.png"/></p>
 
 
 
@@ -84,33 +71,46 @@ https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Re
 
 
 
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary_Formatted.png" width="371" height="127"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary_Formatted.png" width="371" height="127"/></p>
-
-<p align="center"><img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary_Formatted.png" width="371" height="127"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary_Formatted.png" width="371" height="127"/></p>
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary_Formatted.png" width="371" height="127"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary_Formatted.png" width="371" height="127"/></p>
-
-
-
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary.png" width="371" height="127"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary.png" width="371" height="127"/></p>
-
-
-<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary.png" width="371" height="127"/>&nbsp;<img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary.png" width="371" height="127"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Math_by_Grade.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Math_by_Grade.png"/></p>
 
 
 <p align="center"><img src="
-https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary.png" width="371" height="127"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary.png" width="371" height="127"/></p>
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_Reading_by_Grade.png"/>&nbsp;<img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_Reading_by_Grade.png"/></p>
+
+
+
+
+
+
+
+
+
+
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary_Formatted.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary_Formatted.png"/></p>
+
+<p align="center"><img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary_Formatted.png"/>&nbsp;<img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary_Formatted.png"/></p>
+
+
+
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary_Formatted.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary_Formatted.png"/></p>
+
+
+
+
+
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_per_Capita_Summary.png"/>&nbsp;<img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_per_Capita_Summary.png"/></p>
+
+
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_size_summary.png"/>&nbsp;<img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_size_summary.png"/></p>
+
+
+<p align="center"><img src="
+https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/New_type_summary.png"/>&nbsp;<img src="https://github.com/M-Outlaw/BootCamp-Mod-4-School_District_Analysis/blob/main/Resources/Old_type_summary.png"/></p>
 
 
 
